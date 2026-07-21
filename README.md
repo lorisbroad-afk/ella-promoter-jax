@@ -1,35 +1,53 @@
-# 🚀 Ella Promoter Jax
+<p align="center">
+  <img src="public/images/github-banner.png" alt="ELLA PROMOTER JAX Banner" width="100%">
+</p>
 
-## The Ultimate Stream Growth & Creator Branding Agency
+<h1 align="center">🚀 ELLA PROMOTER JAX</h1>
 
-Ella Promoter Jax is a premium esports-inspired agency website designed for professional stream growth, Twitch promotion, community management, and custom streamer website development.
+<p align="center">
+Professional Twitch Promotion Expert • Streamer Website Developer • Creator Branding Agency
+</p>
 
-The platform serves as a central hub where Twitch, Kick, YouTube, and Discord creators can discover professional growth services, explore completed projects, and connect directly for collaboration.
+<p align="center">
 
----
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-4-38BDF8?logo=tailwindcss)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase)
 
-## 🌟 Features
-
-- 🎮 Premium esports-inspired UI/UX
-- 🦸 Custom mascot branding
-- 💙 Blue, White & Gold futuristic design
-- ✨ Smooth animations and transitions
-- 🌌 Glassmorphism interface
-- 📱 Fully responsive design
-- 🎯 Twitch, Kick & YouTube promotion services
-- 🌍 Discord community growth services
-- 💻 Custom streamer website development
-- 📂 Interactive project portfolio
-- 🎥 Featured games showcase
-- ⭐ Client testimonials
-- 💰 Service pricing section
-- ❓ FAQ section
-- 📞 Contact form (Supabase Ready)
-- 🔒 Admin Dashboard (Coming Soon)
+</p>
 
 ---
 
-## 🎮 Games Supported
+# 🎮 About
+
+**Ella Promoter Jax** is a premium esports-inspired agency website built for streamers, gaming creators, and esports professionals.
+
+The platform helps Twitch, Kick, YouTube, and Discord creators grow their communities while showcasing premium streamer website development and creator branding services.
+
+---
+
+# ✨ Features
+
+- 🎮 Premium Esports UI
+- 🦸 Custom Mascot Branding
+- 💙 Blue, White & Gold Theme
+- ✨ Smooth Animations
+- 🌌 Glassmorphism Design
+- 📱 Mobile Responsive
+- 🎥 Featured Games Gallery
+- 📂 Portfolio Showcase
+- 💬 Testimonials
+- 💰 Pricing Section
+- ❓ FAQ
+- 📞 Contact Form
+- 🔒 Supabase Ready Backend
+- 📊 Admin Dashboard (Coming Soon)
+
+---
+
+# 🎮 Games Supported
 
 - Call of Duty
 - Fortnite
@@ -41,7 +59,6 @@ The platform serves as a central hub where Twitch, Kick, YouTube, and Discord cr
 - GTA V
 - Minecraft
 - Escape from Tarkov
-- Elden Ring
 - Balatro
 - Slay the Spire
 - Silent Hill
@@ -49,50 +66,74 @@ The platform serves as a central hub where Twitch, Kick, YouTube, and Discord cr
 
 ---
 
-## 💼 Services
+# 💼 Professional Services
 
 - Twitch Promotion
 - Kick Promotion
 - YouTube Growth
 - Discord Community Growth
-- Stream Branding
+- Creator Branding
 - Gaming Brand Identity
-- Stream Overlays & Graphics
+- Stream Graphics
+- Stream Overlays
 - Custom Streamer Websites
 - Landing Pages
-- Creator Portfolio Websites
+- Portfolio Websites
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - Framer Motion
-- Supabase
 - React Router
-- Modern CSS Animations
+- Supabase
 
 ---
 
-## 📸 Portfolio
+# 📸 Portfolio
 
-Featured projects include:
+Featured Projects
 
 - 🎮 JAYYXXY Premium Gaming Website
 - 🚀 Oladips Promotions Platform
-- 🌐 Custom Streamer Websites
+- 🌐 Premium Streamer Websites
 - 🎨 Future Client Projects
 
 ---
 
-## 📬 Contact
+# 🚀 Getting Started
 
-Looking to grow your streaming career or launch a premium gaming website?
+Clone the repository
 
-Let's work together!
+```bash
+git clone https://github.com/yourusername/ella-promoter-jax.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run locally
+
+```bash
+npm run dev
+```
+
+Build production
+
+```bash
+npm run build
+```
+
+---
+
+# 📬 Contact
 
 ### Fiverr
 
@@ -120,32 +161,41 @@ ellamonaninabelinda@gmail.com
 
 ---
 
-## 🚀 Future Roadmap
+# 🛣 Roadmap
 
-- ✅ Premium agency website
-- ✅ Responsive design
-- 🔄 Supabase integration
-- 🔄 Admin dashboard
-- 🔄 Live inquiry management
-- 🔄 Analytics dashboard
-- 🔄 Email notifications
-- 🔄 Client management system
-- 🔄 Real-time dashboard updates
-
----
-
-## 📄 License
-
-This project is built for portfolio and business purposes. All branding, graphics, and custom assets belong to **Ella Promoter Jax** unless otherwise noted. Third-party trademarks, game titles, and platform names are the property of their respective owners.
+- ✅ Premium Website
+- ✅ Responsive UI
+- 🔄 Supabase Backend
+- 🔄 Admin Dashboard
+- 🔄 Analytics
+- 🔄 Email Notifications
+- 🔄 Client Management
+- 🔄 Live Dashboard
 
 ---
 
-## ⭐ Support
+# 📄 License
 
-If you like this project, consider giving it a ⭐ on GitHub.
+This project is built for portfolio and business purposes.
 
-Your support helps showcase the project and encourages future development.
+All custom branding, graphics, logos, and mascot artwork belong to **ELLA PROMOTER JAX**.
+
+Game titles, logos, and trademarks belong to their respective owners.
 
 ---
 
-**Built with ❤️ by Ella Promoter Jax**
+# ⭐ Support
+
+If you enjoy this project, consider leaving a ⭐ on GitHub.
+
+It helps showcase the project and supports future development.
+
+---
+
+<p align="center">
+
+**Built with ❤️ by ELLA PROMOTER JAX**
+
+Grow • Engage • Dominate
+
+</p>
